@@ -1,4 +1,4 @@
-##GitHub Project Description: Sales Report in Power BI
+<b>GitHub Project Description: Sales Report in Power BI
 
 ##1.Data Integration:
 
