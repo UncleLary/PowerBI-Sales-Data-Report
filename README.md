@@ -1,5 +1,8 @@
 <b>GitHub Project Description: Sales Report in Power BI
 
+<img width="620" alt="image" src="https://github.com/UncleLary/PowerBI-Sales-Data-Report/assets/86026549/f205d1bb-6826-446a-8d88-2bc21855c75d">
+
+
 <h2>1.Data Integration:</h2>
 
 Merged and deleted columns from two datasets intelligently linked by customerID, ensuring a cohesive and comprehensive dataset for analysis.
